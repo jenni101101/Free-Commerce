@@ -1,6 +1,5 @@
-
+![logo (1)](https://user-images.githubusercontent.com/119905456/236517001-8f98abc2-2022-48d7-bf94-bedf034a3c73.png)
 <h1 align="center"> 
-<img= />
 <p> Inovando sua forma de comprar e vender.</p>
  </h1>
  
